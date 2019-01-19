@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    swapi (0.0.2)
+
+GEM
+  remote: https://rubygems.org/
+  remote: http://gems.github.com/
+  specs:
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  swapi!
+
+BUNDLED WITH
+   1.17.2
